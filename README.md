@@ -2,8 +2,6 @@
 
 An in-depth analysis of data professionals' trends, salaries, and preferences using Stack Overflow's annual Developer Survey data from 2020 to 2025.
 
-> **📊 Includes PDF Presentation**: "Is data science still a promising career path in 2025?" - Comprehensive insights into the current state of the data science field and career opportunities.
-
 ## 📊 Overview
 
 This project analyzes over **49,000 responses** from the 2025 Stack Overflow Developer Survey, with a specific focus on **2,900 data professionals** across seven key roles:
@@ -72,3 +70,4 @@ All data is sourced from the official [Stack Overflow Developer Survey](https://
 - Stack Overflow for providing comprehensive developer survey data
 - The data science community for inspiration and best practices
 - All survey respondents who made this analysis possible
+
