@@ -1,6 +1,6 @@
-# Stack Overflow Developer Survey Analysis: Data Professionals 2020-2025
+# Stack Overflow Developer Survey Analysis: Data Professionals 2021-2025
 
-An in-depth analysis of data professionals' trends, salaries, and preferences using Stack Overflow's annual Developer Survey data from 2020 to 2025.
+Analysis of data professionals' trends, salaries, and preferences using Stack Overflow's annual Developer Survey data from 2021 to 2025.
 
 ## 📊 Overview
 
@@ -27,7 +27,7 @@ The analysis is accompanied by a comprehensive PDF presentation that synthesizes
 
 ### Historical Trends (2020-2025)
 
-- **Salary Growth**: Median salary trends for data professionals over 5 years
+- **Salary Growth**: Median salary trends for data professionals in the last 5 years
 
 ## 📁 Project Structure
 
@@ -35,7 +35,7 @@ The analysis is accompanied by a comprehensive PDF presentation that synthesizes
 ├── Stack-overflow-datasets/
 │   ├── 2025 Stack Overflow Survey Results.csv
 │   ├── 2024 Stack Overflow Survey Results.csv
-│   └── ... (2020-2023 datasets)
+│   └── ... (2021-2023 datasets)
 ├── analysis.ipynb
 ├── presentation.pdf          # "Is data science still a promising career path in 2025?"
 ├── requirements.txt
@@ -70,4 +70,5 @@ All data is sourced from the official [Stack Overflow Developer Survey](https://
 - Stack Overflow for providing comprehensive developer survey data
 - The data science community for inspiration and best practices
 - All survey respondents who made this analysis possible
+
 
